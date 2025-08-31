@@ -20,7 +20,7 @@
 
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
 ### *Ответ:*
-![png]()
+![png](https://github.com/vajnichev/11-02-hw/blob/main/IMG/11.2.1.png)
 
 ---
 
@@ -30,7 +30,7 @@
 
 *Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*
 ### *Ответ:*
-![png]()
+![png](https://github.com/vajnichev/11-02-hw/blob/main/IMG/11.2.2.png)
 
 ---
 
@@ -40,8 +40,8 @@
 
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
 ### *Ответ:*
-![png]()
-![png]()
+![png](https://github.com/vajnichev/11-02-hw/blob/main/IMG/11.2.3.png)
+![png](https://github.com/vajnichev/11-02-hw/blob/main/IMG/11.2.4.png)
 ---
 
 ### Задание 5*. Работа с числами 
@@ -50,6 +50,6 @@
 
 *Приведите скриншот, где будут проделаны все операции и будет видно, что значение key5 стало равно 10.*
 ### *Ответ:*
-![png]()
+![png](https://github.com/vajnichev/11-02-hw/blob/main/IMG/11.2.5.png)
 
 ---
